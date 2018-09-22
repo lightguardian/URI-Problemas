@@ -1,0 +1,1 @@
+print("NUMBER = " .. io.read() .. "\n" .. "SALARY = U$ " .. string.format("%.2f",io.read() * io.read()))

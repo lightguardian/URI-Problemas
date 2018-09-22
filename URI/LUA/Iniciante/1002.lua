@@ -1,0 +1,1 @@
+print("A=".. string.format("%.4f", (3.14159 * math.pow(io.read(), 2))))

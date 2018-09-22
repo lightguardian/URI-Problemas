@@ -1,0 +1,1 @@
+print("SOMA = " .. io.read() + io.read())

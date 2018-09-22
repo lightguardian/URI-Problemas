@@ -1,0 +1,1 @@
+print("X = " .. (io.read() + io.read()))

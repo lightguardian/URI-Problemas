@@ -1,0 +1,1 @@
+print("PROD = " .. io.read() * io.read())

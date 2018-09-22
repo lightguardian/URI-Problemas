@@ -1,0 +1,1 @@
+print("VOLUME = " ..string.format("%.3f",(4/3) * 3.14159 * math.pow(io.read(),3)))

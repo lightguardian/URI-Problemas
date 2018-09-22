@@ -1,0 +1,1 @@
+print("DIFERENCA = "..io.read() * io.read() - io.read() * io.read())
